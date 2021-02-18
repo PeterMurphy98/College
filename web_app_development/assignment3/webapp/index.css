@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    background-color: #9be8ffda;
+    margin: 0;
+    padding: 0;
+}
+/* Navbar */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    top: 0;
+    width: 100%;
+} 
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-size: 18px;
+} 
+.navbar a:hover {
+    background: #111;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: #333;
+    color: white;
+}
+
+#b01, #b02{
+    padding: 2px;
+}
+#b01, #b02, #empbutton {
+    font-size: 18px;
+    background-color:#8ccee2;
+}
+#b01, #b02 {
+    display: none;
+}
+#prodlines, #products, #offices, #employees {
+    margin: 0;
+    background-color:#9be8ffda;
+}
+.h01 {
+    display: inline-block;
+    margin-left: 10px;
+}
+.a01 {
+    display: inline-block;
+    margin-left: 10px;
+}
+.p01 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+table {
+    margin: auto;
+    width: 100%;
+}
+table, th, td {
+    border-bottom: 1px solid #000000;
+    border-top: 1px solid #000000;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-collapse: collapse;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+th {
+    background-color: #269ff0;
+    color: black;
+    text-align: left;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+tr {
+    background-color: #9be8ff;
+}
+.h02 {
+    text-align: center;
+}
+
