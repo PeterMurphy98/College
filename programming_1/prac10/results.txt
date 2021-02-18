@@ -1,0 +1,6 @@
+< count = 44
+> count = 44
+\n = 31
+e count = 58
+<!-- count = 2
+--> count =2

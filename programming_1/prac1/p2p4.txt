@@ -1,0 +1,5 @@
+str = 'elephant'
+the index starts at 0 so the first letter is str[0]
+str[1:5] slices from the 2nd letter (index 1) to the 5th letter (index 4)
+similarly, str[5:8] slices from the 6th to the 8th letter
+so print(str[0] + str[1:5] + str[5:8]) prints 'elephant'

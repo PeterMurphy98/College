@@ -1,0 +1,2 @@
+When I entered 1234 in the recursive program, I got the error: RecursionError: maximum recursion depth exceeded in comparison.
+When I entered 1234 in the non-recursive program I got a number instantly that was over 10 lines long.

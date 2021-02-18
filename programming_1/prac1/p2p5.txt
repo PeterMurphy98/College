@@ -1,0 +1,5 @@
+(a) print returns nothing
+(b) print returns nothing
+(c) it prints up to but not including y i.e. [:2] prints the first 2 characters
+(d) it prints from x to the end including x i.e. [2:] prints from the 3rd character(index 2) to the end
+(e) it prints the whole string

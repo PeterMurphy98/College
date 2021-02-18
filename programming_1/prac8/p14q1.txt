@@ -1,0 +1,2 @@
+Both programs return the answer immediately, until I enter a number greater than 997 in the recursive program, then I get the error: RecursionError: maximum recursion depth exceeded in comparison.
+When I entered 12345 in the non-recursive program, my vsc froze.

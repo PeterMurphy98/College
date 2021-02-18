@@ -1,0 +1,16 @@
+Prompt user for filename
+Check if file exists
+Read file line by line into a list
+Prompt user for string
+While the string is non-empty
+    Initialise lines found count to 0
+    Check if string is contained in each line
+        If it is found, 
+            print the line
+            add one to the lines found count
+    If no lines were found and the string length is greater than 5, 
+        remove the last character from the string
+    Else,
+        If lines found count equals 0, 
+            print no match found
+        Prompt user for new string

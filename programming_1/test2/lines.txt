@@ -1,0 +1,38 @@
+A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming.
+Modern computers have the ability to follow generalized sets of operations, called programs.
+These programs enable computers to perform an extremely wide range of tasks.
+Computing is any activity that uses computers to manage, process, and communicate information.
+It includes development of both hardware and software. Computing is a critical, integral component of modern industrial technology.
+Major computing disciplines include computer engineering, software engineering, computer science, information systems, and information technology.
+Computability is the ability to solve a problem in an effective manner.
+It is a key topic of the field of computability theory within mathematical logic and the theory of computation within computer science.
+The computability of a problem is closely linked to the existence of an algorithm to solve the problem.
+The most widely studied models of computability are the Turing-computable and u-recursive functions, and the lambda calculus, all of which have computationally equivalent power.
+Other forms of computability are studied as well: computability notions weaker than Turing machines are studied in automata theory, while computability notions stronger than Turing machines are studied in the field of hypercomputation.
+In theoretical computer science and mathematics, the theory of computation is the branch that deals with how efficiently problems can be solved on a model of computation, using an algorithm.
+The field is divided into three major branches: automata theory and languages, computability theory, and computational complexity theory, which are linked by the question: "What are the fundamental capabilities and limitations of computers?".
+In order to perform a rigorous study of computation, computer scientists work with a mathematical abstraction of computers called a model of computation.
+There are several models in use, but the most commonly examined is the Turing machine.
+Computer scientists study the Turing machine because it is simple to formulate, can be analyzed and used to prove results, and because it represents what many consider the most powerful possible "reasonable" model of computation (see Church-Turing thesis).
+It might seem that the potentially infinite memory capacity is an unrealizable attribute, but any decidable problem solved by a Turing machine will always require only a finite amount of memory.
+So in principle, any problem that can be solved (decided) by a Turing machine can be solved by a computer that has a finite amount of memory.
+Computable functions are the basic objects of study in computability theory.
+Computable functions are the formalized analogue of the intuitive notion of algorithms, in the sense that a function is computable if there exists an algorithm that can do the job of the function, ie given an input of the function domain it can return the corresponding output.
+Computable functions are used to discuss computability without referring to any concrete model of computation such as Turing machines or register machines.
+Any definition, however, must make reference to some specific model of computation but all valid definitions yield the same class of functions.
+Particular models of computability that give rise to the set of computable functions are the Turing-computable functions and the u-recursive functions.
+Computability theory, also known as recursion theory, is a branch of mathematical logic, of computer science, and of the theory of computation that originated in the 1930s with the study of computable functions and Turing degrees.
+The field has since expanded to include the study of generalized computability and definability.
+In these areas, recursion theory overlaps with proof theory and effective descriptive set theory.
+Basic questions addressed by recursion theory include:
+    What does it mean for a function on the natural numbers to be computable?
+    How can noncomputable functions be classified into a hierarchy based on their level of noncomputability?
+Although there is considerable overlap in terms of knowledge and methods, mathematical recursion theorists study the theory of relative computability, reducibility notions, and degree structures; those in the computer science field focus on the theory of subrecursive hierarchies, formal methods, and formal languages.
+Computer programming is the process of designing and building an executable computer program for accomplishing a specific computing task.
+Programming involves tasks such as: analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms in a chosen programming language (commonly referred to as coding).
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+The process of programming thus often requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Jumpstart your journey into network programmability with this expert-led video course.
+We have 6 modules, each with lessons including API and code samples you can use on your computer to follow along with the videos.
+Programmable calculators are calculators that can automatically carry out a sequence of operations under control of a stored program, much like a computer.

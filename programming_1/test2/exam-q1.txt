@@ -1,0 +1,12 @@
+def isPal:
+    Initialise new string 
+    Add all letters, numbers and spaces from input string to new string
+    If new string is the same when reversed,
+        print is palindrome
+    Else, 
+        isn't palindrome
+        
+Prompt user for string
+while string is non-empty
+    call isPal(input string)
+    prompt user for next string
